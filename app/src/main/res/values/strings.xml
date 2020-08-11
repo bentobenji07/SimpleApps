@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleApps</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin_button">Signin</string>
+    <string name="doubleBackPressConfirmation">Tekan KEMBALI sekali lagi untuk keluar</string>
+    <string name="wrongpassoremail">Email atau Password tidak boleh kosong !</string>
+    <string name="from">FROM</string>
+
+</resources>
